@@ -1,4 +1,4 @@
-![Screenshot_1695451232](https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/a5fbf06e-5294-4b81-a6fd-4c271189167a)# Task Reminder Flutter Application
+  Task Reminder Flutter Application
 
 Task Reminder is a simple mobile application built with Flutter that allows you to add tasks with completion times, remove tasks, and receive notifications 2 minutes before the task completion time. The app utilizes various dependencies to enhance its functionality and user experience.
 
@@ -45,13 +45,13 @@ The app features a splash screen with Lottie animations to provide an engaging a
 
 ## Screenshots
 
-![Task Reminder Splash Screen][Screenshot_1695451067](https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/08e9bfc3-ecda-43e8-a1b1-6bd0d09a8ddf)
+![Task Reminder Splash Screen]![Screenshot_1695451067](https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/08e9bfc3-ecda-43e8-a1b1-6bd0d09a8ddf)
 
 
 ![Task Reminder Task List]
 
 
-![Task Reminder Add Task][Screenshot_1695451102](https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/06b689bf-cb09-4c1a-a6fe-64e0fd40bc15)
+![Task Reminder Add Task]![Screenshot_1695451102](https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/06b689bf-cb09-4c1a-a6fe-64e0fd40bc15)
 
 
 ![Task Reminder Notifications](screenshots/notifications.png)
