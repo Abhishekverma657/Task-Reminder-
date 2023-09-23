@@ -45,16 +45,18 @@ The app features a splash screen with Lottie animations to provide an engaging a
 
 ## Screenshots
 
-![Task Reminder Splash Screen]![Screenshot_1695451067](https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/08e9bfc3-ecda-43e8-a1b1-6bd0d09a8ddf)
+ 
+<img src="https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/08e9bfc3-ecda-43e8-a1b1-6bd0d09a8ddf" width="300" height="500">
+ 
+<img src="https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/06b689bf-cb09-4c1a-a6fe-64e0fd40bc15" width="300" height="500">
+ <img src ="https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/0cc1c035-c66c-44a5-b214-7441c608965c"width="300" height="500">
+
+<img src= "https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/dbcb0f09-451e-4ca4-aa24-4933a1e1fb85" width="300" height="500">
+<img src="https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/c799867d-62d9-4ab7-976a-e8348bf0cf90" width="300" height="500">
 
 
-![Task Reminder Task List]
 
-
-![Task Reminder Add Task]![Screenshot_1695451102](https://github.com/Abhishekverma657/Task-Reminder-/assets/74288334/06b689bf-cb09-4c1a-a6fe-64e0fd40bc15)
-
-
-![Task Reminder Notifications](screenshots/notifications.png)
+ 
 
 ## Getting Started
 
