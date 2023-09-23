@@ -65,7 +65,7 @@ To run the Task Reminder app locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/task-reminder.git
+    https://github.com/Abhishekverma657/Task-Reminder-.git
    ```
 
 2. Navigate to the project directory:
